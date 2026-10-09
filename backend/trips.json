@@ -1,0 +1,74 @@
+[
+  {
+    "id": "trip_001",
+    "start_time": "2026-10-07T08:00:00",
+    "end_time": "2026-10-07T08:35:00",
+    "amount": 1500.0,
+    "payment_method": "card",
+    "commission": 225.0
+  },
+  {
+    "id": "trip_002",
+    "start_time": "2026-10-07T09:10:00",
+    "end_time": "2026-10-07T09:40:00",
+    "amount": 800.0,
+    "payment_method": "cash",
+    "commission": 120.0
+  },
+  {
+    "id": "trip_003",
+    "start_time": "2026-10-07T08:00:00",
+    "end_time": "2026-10-07T08:35:00",
+    "amount": 1500.0,
+    "payment_method": "card",
+    "commission": 225.0
+  },
+  {
+    "id": "trip_004",
+    "start_time": "2026-10-09T09:10:00",
+    "end_time": "2026-10-09T09:40:00",
+    "amount": 800.0,
+    "payment_method": "cash",
+    "commission": 120.0
+  },
+  {
+    "id": "trip_005",
+    "start_time": "2026-10-11T08:00:00",
+    "end_time": "2026-10-11T08:35:00",
+    "amount": 1400.0,
+    "payment_method": "card",
+    "commission": 265.0
+  },
+  {
+    "id": "trip_006",
+    "start_time": "2026-10-11T09:10:00",
+    "end_time": "2026-10-11T09:40:00",
+    "amount": 600.0,
+    "payment_method": "cash",
+    "commission": 100.0
+  },
+  {
+    "id": "522b4250f26b46903738b4fc961a7c5b0ff5e66a1b037332e311541c23704cd3",
+    "start_time": "2026-10-11T08:00:00",
+    "end_time": "2026-10-11T08:30:00",
+    "amount": 500.0,
+    "payment_method": "cash",
+    "commission": 120.0
+  },
+  {
+    "id": "ec2d0eee2c88f38477cc45deec0d6b993b8512ba2f65af7e42a0fcbef06cbaba",
+    "start_time": "2026-10-11T08:00:00",
+    "end_time": "2026-10-11T20:30:00",
+    "amount": 16000.0,
+    "payment_method": "card",
+    "commission": 3450.0
+  },
+  {
+    "id": "a7b5b4ad0324595bffb9d0985faa3f1f2a8234947645308fb1105432c35aae16",
+    "start_time": "2026-10-07T08:00:00",
+    "end_time": "2026-10-07T08:30:00",
+    "amount": 4000.0,
+    "payment_method": "cash",
+    "commission": 544.0
+  }
+]
